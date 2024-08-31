@@ -4,7 +4,7 @@ Este projeto faz parte de uma atividade da matéria de **Inteligência Artificia
 
 ## Descrição do Projeto
 
-Utilizando o google Colab, o código realiza as seguintes etapas:
+Utilizando o google Colab e a linguagem de programção Python, o código realiza as seguintes etapas:
 
 1. **Carregamento do Dataset**: O dataset Iris é carregado a partir de um arquivo CSV.
 2. **Pré-processamento**: A coluna de classes (`variety`) é separada do restante do dataset e as classes são convertidas em valores inteiros para facilitar a avaliação posterior.
