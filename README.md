@@ -1,10 +1,10 @@
 # K-Means Clustering com o Dataset Iris
 
-Este projeto faz parte de uma atividade da matéria de **Inteligência Artificial Aplicada a Sistemas de Informação** do quarto período da Unimater. O objetivo da atividade é implementar o algoritmo de clustering K-Means utilizando o famoso dataset Iris, agrupando as amostras de flores em três clusters diferentes e comparando os resultados com as classes reais do dataset.
+Este projeto faz parte de uma atividade da matéria de **Inteligência Artificial Aplicada a Sistemas de Informação** do quarto período da Unimater. O objetivo da atividade é implementar o algoritmo de clustering K-Means utilizando o famoso dataset Iris, agrupando as amostras de flores em três clusters diferentes e comparando os resultados com as classes reais do dataset. 
 
 ## Descrição do Projeto
 
-O código realiza as seguintes etapas:
+Utilizando o google Colab, o código realiza as seguintes etapas:
 
 1. **Carregamento do Dataset**: O dataset Iris é carregado a partir de um arquivo CSV.
 2. **Pré-processamento**: A coluna de classes (`variety`) é separada do restante do dataset e as classes são convertidas em valores inteiros para facilitar a avaliação posterior.
